@@ -1,0 +1,92 @@
+/* The card container that holds all the cards */
+.card_container {
+  width: 100%; /* Make sure the container takes the full width of its parent */
+  margin: 10px; /* Add margin around the container */
+  display: flex; /* Use flexbox for layout */
+  flex-wrap: wrap; /* Allow cards to wrap to the next line if needed */
+  justify-content: center; /* Center the cards horizontally */
+  gap: 20px; /* Add space between cards */
+}
+
+/* Individual card style */
+.card {
+  flex: 0 1 20%; /* Cards will take 20% of the width and shrink if necessary */
+  overflow: hidden; /* Prevent overflow from showing outside the card */
+  box-shadow: 0 0 5px; /* Add a subtle shadow around the card */
+  border-radius: 10px; /* Round the corners of the card */
+  padding: 10px; /* Add padding inside the card */
+  border: 1px solid; /* Add a border around the card */
+}
+
+/* Styling for the header and footer inside the card */
+.card_header,
+.card_footer {
+  text-align: center; /* Center-align the content inside header and footer */
+}
+
+/* Space between the card header and footer */
+.card_footer {
+  margin-top: 15px; /* Add top margin to card footer */
+}
+
+/* Styling for the image inside the card header */
+.card_header img {
+  width: 150px; /* Set width of the image */
+  height: 150px; /* Set height of the image */
+}
+
+/* Button inside the card footer */
+.card_footer button {
+  padding: 10px; /* Add padding inside the button */
+  margin: 10px; /* Add margin around the button */
+  border: 0; /* Remove default border */
+  cursor: pointer; /* Change cursor to pointer when hovering */
+  border-radius: 10px; /* Round the button corners */
+  box-shadow: 0 0 1px; /* Add a subtle shadow to the button */
+  font-size: 20px; /* Set font size for button text */
+}
+
+/* Specific style for the 'Add to Cart' button */
+.add_to_cart {
+  background: transparent; /* Make background transparent */
+  color: #3906f1; /* Set text color to a blue shade */
+}
+
+/* Specific style for the 'Buy Now' button */
+.buy_now {
+  background-color: #f16c06; /* Set background color to an orange shade */
+  color: #ffff; /* Set text color to white */
+}
+
+/* Hover effect for the 'Buy Now' button */
+.buy_now:hover {
+  background-color: #d17229; /* Change background color on hover */
+}
+
+/* Hover effect for the 'Add to Cart' button */
+.add_to_cart:hover {
+  background-color: rgb(248, 249, 249); /* Light gray background on hover */
+}
+
+/* Responsive styles for different screen sizes */
+
+/* For screens smaller than 1280px */
+@media only screen and (max-width: 1280px) {
+  .card {
+    flex: 0 1 25%; /* Cards take 25% of the width */
+  }
+}
+
+/* For screens smaller than 1080px */
+@media only screen and (max-width: 1080px) {
+  .card {
+    flex: 0 1 30%; /* Cards take 30% of the width */
+  }
+}
+
+/* For screens smaller than 720px */
+@media only screen and (max-width: 720px) {
+  .card {
+    flex: 0 1 80%; /* Cards take 80% of the width */
+  }
+}

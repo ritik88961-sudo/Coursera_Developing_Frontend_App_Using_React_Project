@@ -1,0 +1,11 @@
+/* Global reset to remove default margins and padding */
+* {
+  margin: 0; /* Remove default margin for all elements */
+  padding: 0; /* Remove default padding for all elements */
+}
+
+/* Basic styling for the body element */
+body {
+  font-family: "calibri"; /* Set the font to Calibri for the entire page */
+  overflow-x: hidden; /* Prevent horizontal scrolling if content overflows on the x-axis */
+}

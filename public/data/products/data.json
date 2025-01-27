@@ -1,0 +1,453 @@
+[
+    {
+      "ID": "P001",
+      "Category": "Smartphones",
+      "Name": "Apple iPhone 14 Pro Max",
+      "About": "The iPhone 14 Pro Max features a 48 MP camera, A16 Bionic chip, 6.7-inch display.",
+      "Rating": 4.1,
+      "Price": 1099.99,
+      "Brand": "Apple"
+    },
+    {
+      "ID": "P002",
+      "Category": "Smartphones",
+      "Name": "Samsung Galaxy S23 Ultra",
+      "About": "The Samsung Galaxy S23 Ultra comes with a 200 MP camera and Snapdragon 8 Gen 2 chipset.",
+      "Rating": 4.2,
+      "Price": 1199.99,
+      "Brand": "Samsung"
+    },
+    {
+      "ID": "P003",
+      "Category": "Laptops",
+      "Name": "Dell XPS 13",
+      "About": "A sleek and powerful ultrabook with Intel Core i7, 16GB RAM, and 512GB SSD.",
+      "Rating": 4.5,
+      "Price": 1299.99,
+      "Brand": "Dell"
+    },
+    {
+      "ID": "P004",
+      "Category": "Laptops",
+      "Name": "Apple MacBook Air M2",
+      "About": "Lightweight laptop with Apple's M2 chip, 8GB RAM, and 256GB SSD.",
+      "Rating": 4.1,
+      "Price": 999.99,
+      "Brand": "Apple"
+    },
+    {
+      "ID": "P005",
+      "Category": "Headphones",
+      "Name": "Sony WH-1000XM5",
+      "About": "Industry-leading noise-canceling headphones with 30 hours of battery life.",
+      "Rating": 4.9,
+      "Price": 348.00,
+      "Brand": "Sony"
+    },
+    {
+      "ID": "P006",
+      "Category": "Headphones",
+      "Name": "Bose QuietComfort 45",
+      "About": "Noise-canceling headphones offering superior comfort and sound quality.",
+      "Rating": 3.1,
+      "Price": 329.99,
+      "Brand": "Bose"
+    },
+    {
+      "ID": "P007",
+      "Category": "Smartwatches",
+      "Name": "Apple Watch Series 8",
+      "About": "With advanced health tracking, a new temperature sensor, and crash detection.",
+      "Rating": 3.8,
+      "Price": 399.99,
+      "Brand": "Apple"
+    },
+    {
+      "ID": "P008",
+      "Category": "Smartwatches",
+      "Name": "Samsung Galaxy Watch 5",
+      "About": "Stylish and feature-packed smartwatch with body composition measurements.",
+      "Rating": 3.4,
+      "Price": 279.99,
+      "Brand": "Samsung"
+    },
+    {
+      "ID": "P009",
+      "Category": "Cameras",
+      "Name": "Canon EOS R5",
+      "About": "Mirrorless camera with 45MP resolution, 8K video recording, and high-speed autofocus.",
+      "Rating": 3.6,
+      "Price": 3899.99,
+      "Brand": "Canon"
+    },
+    {
+      "ID": "P010",
+      "Category": "Cameras",
+      "Name": "Sony Alpha 7 IV",
+      "About": "Full-frame mirrorless camera with advanced autofocus and 4K video.",
+      "Rating": 5,
+      "Price": 2499.99,
+      "Brand": "Sony"
+    },
+    {
+      "ID": "P011",
+      "Category": "Tablets",
+      "Name": "Apple iPad Pro 11",
+      "About": "Powerful tablet with M2 chip, 12MP camera, and 120Hz display.",
+      "Rating": 4.2,
+      "Price": 799.99,
+      "Brand": "Apple"
+    },
+    {
+      "ID": "P012",
+      "Category": "Tablets",
+      "Name": "Samsung Galaxy Tab S8",
+      "About": "High-performance tablet with a large 12.4-inch display and S Pen.",
+      "Rating": 4.6,
+      "Price": 649.99,
+      "Brand": "Samsung"
+    },
+    {
+      "ID": "P013",
+      "Category": "Home Appliances",
+      "Name": "Dyson V15 Detect",
+      "About": "Powerful cordless vacuum with laser illumination for deep cleaning.",
+      "Rating": 4.8,
+      "Price": 699.99,
+      "Brand": "Dyson"
+    },
+    {
+      "ID": "P014",
+      "Category": "Home Appliances",
+      "Name": "Roomba i7+ Robot Vacuum",
+      "About": "Smart robot vacuum that empties itself, with advanced cleaning power.",
+      "Rating": 4.5,
+      "Price": 799.99,
+      "Brand": "iRobot"
+    },
+    {
+      "ID": "P015",
+      "Category": "Home Appliances",
+      "Name": "Ninja Foodi Deluxe XL",
+      "About": "Multi-function air fryer with a 5-quart capacity and dehydrator.",
+      "Rating": 3.6,
+      "Price": 229.99,
+      "Brand": "Ninja"
+    },
+    {
+      "ID": "P016",
+      "Category": "Home Appliances",
+      "Name": "Breville Bambino Plus Espresso Machine",
+      "About": "Compact espresso machine that delivers café-quality coffee.",
+      "Rating": 4.7,
+      "Price": 499.99,
+      "Brand": "Breville"
+    },
+    {
+      "ID": "P017",
+      "Category": "Wearables",
+      "Name": "Fitbit Charge 5",
+      "About": "Fitness tracker with built-in GPS, heart-rate monitor, and sleep tracking.",
+      "Rating": 4.5,
+      "Price": 149.95,
+      "Brand": "Fitbit"
+    },
+    {
+      "ID": "P018",
+      "Category": "Wearables",
+      "Name": "Garmin Forerunner 945",
+      "About": "Advanced GPS smartwatch for athletes with full triathlon tracking.",
+      "Rating": 2.6,
+      "Price": 599.99,
+      "Brand": "Garmin"
+    },
+    {
+      "ID": "P019",
+      "Category": "Smart Home",
+      "Name": "Amazon Echo Dot (5th Gen)",
+      "About": "Smart speaker with Alexa voice control, better sound, and smart home integration.",
+      "Rating": 4.7,
+      "Price": 49.99,
+      "Brand": "Amazon"
+    },
+    {
+      "ID": "P020",
+      "Category": "Smart Home",
+      "Name": "Google Nest Thermostat",
+      "About": "Smart thermostat that learns your preferences and helps save energy.",
+      "Rating": 4.6,
+      "Price": 129.99,
+      "Brand": "Google"
+    },
+    {
+        "ID": "P021",
+        "Category": "Smart Home",
+        "Name": "Ring Video Doorbell 4",
+        "About": "Smart video doorbell with 1080p HD video, two-way talk, and advanced motion detection.",
+        "Rating": 4.7,
+        "Price": 199.99,
+        "Brand": "Ring"
+      },
+      {
+        "ID": "P022",
+        "Category": "Smart Home",
+        "Name": "Philips Hue White and Color Ambiance Starter Kit",
+        "About": "Smart LED lighting system with full color control and voice control via Alexa or Google Assistant.",
+        "Rating": 4.8,
+        "Price": 199.99,
+        "Brand": "Philips Hue"
+      },
+      {
+        "ID": "P023",
+        "Category": "Televisions",
+        "Name": "Samsung QN90B Neo QLED TV",
+        "About": "4K Neo QLED TV with Quantum Matrix Technology and AI-powered picture quality.",
+        "Rating": 4.9,
+        "Price": 2499.99,
+        "Brand": "Samsung"
+      },
+      {
+        "ID": "P024",
+        "Category": "Televisions",
+        "Name": "LG OLED C1 Series 55-Inch TV",
+        "About": "55-inch OLED TV with perfect black levels, Dolby Vision, and gaming-friendly features.",
+        "Rating": 4.8,
+        "Price": 1799.99,
+        "Brand": "LG"
+      },
+      {
+        "ID": "P025",
+        "Category": "Televisions",
+        "Name": "Sony Bravia XR A80J 65-Inch OLED TV",
+        "About": "65-inch OLED TV with 4K resolution, OLED XR contrast, and Google TV integration.",
+        "Rating": 4.7,
+        "Price": 2499.99,
+        "Brand": "Sony"
+      },
+      {
+        "ID": "P026",
+        "Category": "Gaming Consoles",
+        "Name": "Sony PlayStation 5",
+        "About": "Next-gen gaming console with ultra-high-speed SSD and exclusive games.",
+        "Rating": 4.9,
+        "Price": 499.99,
+        "Brand": "Sony"
+      },
+      {
+        "ID": "P027",
+        "Category": "Gaming Consoles",
+        "Name": "Microsoft Xbox Series X",
+        "About": "Powerful next-gen console with 4K gaming, 1TB SSD, and exclusive titles.",
+        "Rating": 4.8,
+        "Price": 499.99,
+        "Brand": "Microsoft"
+      },
+      {
+        "ID": "P028",
+        "Category": "Gaming Consoles",
+        "Name": "Nintendo Switch OLED Model",
+        "About": "Portable and home gaming console with an OLED screen for enhanced gameplay.",
+        "Rating": 4.7,
+        "Price": 349.99,
+        "Brand": "Nintendo"
+      },
+      {
+        "ID": "P029",
+        "Category": "Headphones",
+        "Name": "Sennheiser Momentum 4 Wireless",
+        "About": "High-end wireless headphones with superior sound and active noise cancellation.",
+        "Rating": 4.8,
+        "Price": 349.95,
+        "Brand": "Sennheiser"
+      },
+      {
+        "ID": "P030",
+        "Category": "Headphones",
+        "Name": "JBL Tune 760NC",
+        "About": "Wireless noise-canceling headphones with 50 hours of battery life.",
+        "Rating": 4.6,
+        "Price": 129.95,
+        "Brand": "JBL"
+      },
+      {
+        "ID": "P031",
+        "Category": "Smartphones",
+        "Name": "Google Pixel 7 Pro",
+        "About": "Google's flagship smartphone with Tensor G2 chip and 5G support.",
+        "Rating": 4.6,
+        "Price": 899.99,
+        "Brand": "Google"
+      },
+      {
+        "ID": "P032",
+        "Category": "Smartphones",
+        "Name": "OnePlus 10 Pro",
+        "About": "Flagship smartphone with Snapdragon 8 Gen 1 and a 48MP triple camera system.",
+        "Rating": 4.6,
+        "Price": 899.00,
+        "Brand": "OnePlus"
+      },
+      {
+        "ID": "P033",
+        "Category": "Smartphones",
+        "Name": "Xiaomi 12 Pro",
+        "About": "Flagship smartphone with Snapdragon 8 Gen 1, 50 MP quad camera, and 120Hz AMOLED display.",
+        "Rating": 4.5,
+        "Price": 749.99,
+        "Brand": "Xiaomi"
+      },
+      {
+        "ID": "P034",
+        "Category": "Smartwatches",
+        "Name": "Garmin Fenix 7X Solar",
+        "About": "Solar-powered smartwatch with advanced health and fitness tracking for outdoor adventures.",
+        "Rating": 4.8,
+        "Price": 899.99,
+        "Brand": "Garmin"
+      },
+      {
+        "ID": "P035",
+        "Category": "Smartwatches",
+        "Name": "Suunto 9 Peak",
+        "About": "Premium multisport GPS watch with 120 hours of battery life and advanced training features.",
+        "Rating": 4.7,
+        "Price": 499.99,
+        "Brand": "Suunto"
+      },
+      {
+        "ID": "P036",
+        "Category": "Cameras",
+        "Name": "Fujifilm X-T4",
+        "About": "Mirrorless camera with 26.1MP and 4K video recording capabilities.",
+        "Rating": 2.7,
+        "Price": 1699.99,
+        "Brand": "Fujifilm"
+      },
+      {
+        "ID": "P037",
+        "Category": "Cameras",
+        "Name": "Panasonic Lumix GH6",
+        "About": "Mirrorless camera with 25.2MP and 4K video recording at 60fps.",
+        "Rating": 4.6,
+        "Price": 2199.99,
+        "Brand": "Panasonic"
+      },
+      {
+        "ID": "P038",
+        "Category": "Cameras",
+        "Name": "Nikon Z9",
+        "About": "Full-frame mirrorless camera with 45.7MP and 8K video capabilities.",
+        "Rating": 4.9,
+        "Price": 5499.99,
+        "Brand": "Nikon"
+      },
+      {
+        "ID": "P039",
+        "Category": "Laptops",
+        "Name": "Asus ROG Zephyrus G14",
+        "About": "Gaming laptop with AMD Ryzen 9, 16GB RAM, and NVIDIA RTX 3060.",
+        "Rating": 4.7,
+        "Price": 1499.99,
+        "Brand": "Asus"
+      },
+      {
+        "ID": "P040",
+        "Category": "Laptops",
+        "Name": "HP Spectre x360 14",
+        "About": "Convertible laptop with Intel i7, 16GB RAM, and a 3K OLED display.",
+        "Rating": 2.1,
+        "Price": 1499.99,
+        "Brand": "HP"
+      },
+      {
+        "ID": "P041",
+        "Category": "Laptops",
+        "Name": "Microsoft Surface Laptop 4",
+        "About": "Laptop with Intel Core i7, 16GB RAM, and 512GB SSD.",
+        "Rating": 4.6,
+        "Price": 1499.99,
+        "Brand": "Microsoft"
+      },
+      {
+        "ID": "P042",
+        "Category": "Smartphones",
+        "Name": "Huawei P50 Pro",
+        "About": "Flagship phone with 50 MP quad-camera system and Kirin 9000 chipset.",
+        "Rating": 4.5,
+        "Price": 899.99,
+        "Brand": "Huawei"
+      },
+      {
+        "ID": "P043",
+        "Category": "Headphones",
+        "Name": "Bose Noise Cancelling Headphones 700",
+        "About": "Premium wireless headphones with 11 levels of noise cancellation and Alexa built-in.",
+        "Rating": 4.7,
+        "Price": 379.99,
+        "Brand": "Bose"
+      },
+      {
+        "ID": "P044",
+        "Category": "Smartwatches",
+        "Name": "Amazfit GTR 3 Pro",
+        "About": "Advanced smartwatch with AMOLED display, heart rate monitoring, and up to 12 days of battery life.",
+        "Rating": 4.6,
+        "Price": 179.99,
+        "Brand": "Amazfit"
+      },
+      {
+        "ID": "P045",
+        "Category": "Cameras",
+        "Name": "Leica M10-R",
+        "About": "Compact rangefinder camera with 40MP and legendary Leica optics.",
+        "Rating": 4.8,
+        "Price": 8495.00,
+        "Brand": "Leica"
+      },
+      {
+        "ID": "P046",
+        "Category": "Smartphones",
+        "Name": "Oppo Find X5 Pro",
+        "About": "Flagship smartphone with a 50MP triple camera system and Snapdragon 8 Gen 1.",
+        "Rating": 4.7,
+        "Price": 999.99,
+        "Brand": "Oppo"
+      },
+      {
+        "ID": "P047",
+        "Category": "Smartwatches",
+        "Name": "Withings Steel HR Sport",
+        "About": "Hybrid smartwatch with heart rate monitoring, GPS, and activity tracking.",
+        "Rating": 4.6,
+        "Price": 199.99,
+        "Brand": "Withings"
+      },
+      {
+        "ID": "P004",
+        "Category": "Laptops",
+        "Name": "Dell Inspiron 15",
+        "About": "A reliable laptop with an Intel Core i5, 8GB RAM, and a 256GB SSD, perfect for everyday use.",
+        "Rating": 4.2,
+        "Price": 799.99,
+        "Brand": "Dell"
+      },
+      {
+        "ID": "P049",
+        "Category": "Televisions",
+        "Name": "Vizio 65-Inch 4K Smart TV",
+        "About": "Affordable 4K UHD TV with Smartcast and Dolby Vision support.",
+        "Rating": 4.5,
+        "Price": 649.99,
+        "Brand": "Vizio"
+      },
+      {
+        "ID": "P050",
+        "Category": "Gaming Consoles",
+        "Name": "Sony PlayStation VR2",
+        "About": "Next-gen virtual reality headset designed for PlayStation 5 with immersive gaming experience.",
+        "Rating": 4.6,
+        "Price": 549.99,
+        "Brand": "Sony"
+      }
+  ]
+  
