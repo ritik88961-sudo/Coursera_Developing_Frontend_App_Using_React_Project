@@ -1,4 +1,4 @@
-name: Deploy Second Website to GitHub Pages
+name: Developing Frontend App using React Coursera Project
 
 on:
   push:
